@@ -22,17 +22,15 @@ body {
 
 #ask_button {
   background-color: #4CAF50;
-  border-radius: 50px 20px;
+  border-radius: 40px 30px;
   color: white;
   padding: 15px 32px;
   text-align: center;
-  text-decoration: none;
 }
 #back_button {
   background-color: #E12020;
-  border-radius: 20px 50px;
+  border-radius: 30px 40px;
   color: white;
   padding: 15px 32px;
   text-align: center;
-  text-decoration: none;
 }
